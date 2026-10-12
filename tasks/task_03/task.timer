@@ -1,0 +1,8 @@
+[Unit]
+Description=Щоденний звіт
+
+[Timer]
+# TODO: реалізуйте розділ Timer
+
+[Install]
+# TODO: реалізуйте розділ Install
